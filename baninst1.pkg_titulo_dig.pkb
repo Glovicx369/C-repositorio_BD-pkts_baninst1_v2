@@ -1,5 +1,5 @@
 DROP PACKAGE BODY BANINST1.PKG_TITULO_DIG;
-
+--------------------------------------se agrega esta linea para probar el versionamiento de GITHUB 08.07.2025
 CREATE OR REPLACE PACKAGE BODY BANINST1.PKG_TITULO_DIG   AS
 -----PROCESO PARA GENERAR LOS TITULOS ELECTRONICOS
 ---- GLOVICX 17/06/2019--
